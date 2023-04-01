@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "831157048625",
+    "project_id": "latihan3-2d7ab",
+    "storage_bucket": "latihan3-2d7ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831157048625:android:a45522022b0318a1ba8c10",
+        "android_client_info": {
+          "package_name": "com.latihan3.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831157048625-a554bolk2i7ntbap2vom9g71sl4efn5l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.latihan3.project",
+            "certificate_hash": "1f67241a2df22e388715b7c13914af05be1a2ba3"
+          }
+        },
+        {
+          "client_id": "831157048625-5gn878ot0vbcmca0jo4mg4qsniodatom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA59Va1wb47Zz4Qamht73miNalLH8VO-Vk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831157048625-5gn878ot0vbcmca0jo4mg4qsniodatom.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
